@@ -13,8 +13,12 @@
 
 - 🔭 I’m currently working on **GitHub Actions, Elastic Stack**  
 - 🌱 I’m currently learning **GitHub Actions, Python**  
+- 💬 Ask me about **DevOps, Cloud Computing (AWS, Microsoft Azure), Kubernetes, Python, Linux System Administration, Git, GitHub, GitLab, Azure DevOps, Helm, ElasticSearch, Docker, Terraform, Jenkins, Ansible, Bash Scripting, MongoDB, MySQL, SQL, Prometheus, Grafana.**
+
 - 👨‍💻 All of my projects are available at **[My GitHub Portfolio](https://github.com/snaveenkpndevops)**  
 - 📫 Reach me at **snaveenkpn@gmail.com**
+
+- 📄 Know about my experiences [LinkedIn Profile](https://www.linkedin.com/in/snaveenkpn/)
 
 ---
 
